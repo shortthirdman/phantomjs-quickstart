@@ -1,0 +1,12 @@
+{
+  "ignoreSslErrors": true,
+  "maxDiskCacheSize": 1000,
+  "outputEncoding": "utf8",
+  "diskCacheEnabled": true,
+  "autoLoadImages": true,
+  "offlineStoragePath": '',
+  "offlineStorageDefaultQuota": '',
+  "localToRemoteUrlAccessEnabled": '',
+  "webSecurityEnabled": true,
+  "printDebugMessages": true
+}
